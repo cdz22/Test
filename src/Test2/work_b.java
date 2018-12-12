@@ -15,7 +15,7 @@ public class work_b {
 	    {	
 	    	timer.cancel();
 	    	this.cancel();
-	        System.out.println("运行了！时间为：" + new Date());
+	        System.out.println("" + new Date());
 	    }
 	}
 	    
