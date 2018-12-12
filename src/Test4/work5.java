@@ -41,7 +41,7 @@ public class work5 {
 	        System.out.println(hashMap2.size()); //1
 	        Object o = 316;
 	        String  x =((int)o/10.0)+"";
-	        
+	       System.out.println();
 	      System.out.println(x);
 
 	}
